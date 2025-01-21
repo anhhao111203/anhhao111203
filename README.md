@@ -10,8 +10,8 @@
     <kbd>Programming Languages</kbd>
     <br>
     <br>
-    <img width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dart/dart-original.svg" /> 
-    <img width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" /> 
-    <img width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kotlin/kotlin-original.svg" /> 
-    <img width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" /> 
+    <img width="60px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dart/dart-original.svg" /> 
+    <img width="60px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" /> 
+    <img width="60px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kotlin/kotlin-original.svg" /> 
+    <img width="60px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" /> 
   </kbd>
