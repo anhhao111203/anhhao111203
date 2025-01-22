@@ -8,7 +8,7 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently **Mobile Developer** at **Mobile-ID Technologies and Services Joint Stock Company**.
+- 👨🏽‍💻 I’m currently **Mobile Developer (Kotlin)** at **Mobile-ID Technologies and Services Joint Stock Company**.
 - 📚 I'm a **Computer Science** student at **Ho Chi Minh City Open University**.
 - 🌱 I'm currently learning **ReactJS** and **ReactNative**
 - 💬 Ask me about anything from [nguyenanhhao.forwork@gmail.com](mailto:nguyenanhhao.forwork@gmail.com), I love to answer!
