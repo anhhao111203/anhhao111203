@@ -1,10 +1,18 @@
 ## Nguyen Anh Hao
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=30&center=true&vCenter=true&width=600&height=100&lines=I'm+a+Mobile+Developer..&hearts;++;Always+Exploring+New+Technologies..,;Computer+Science+Student"></a>
+</p>
+
 **About Me!**
 
 - 👨🏽‍💻 I’m currently **Mobile Developer** at **Mobile-ID Technologies and Services Joint Stock Company**.
 - 📚 I'm a **Computer Science** student at **Ho Chi Minh City Open University**.
 - 💬 Ask me about anything from [nguyenanhhao.forwork@gmail.com](mailto:nguyenanhhao.forwork@gmail.com), I love to answer!
+
+
+
+
 
 ## <div align="center">Social</div>
 <div align="center">
