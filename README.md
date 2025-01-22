@@ -1,21 +1,19 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=30&center=true&vCenter=true&width=600&height=100&lines=I'm+a+Mobile+Developer..&hearts;++;Always+Exploring+New+Technologies..,;Computer+Science+Student"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=30&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Nguyen+Anh+Hao..,;I'm+a+Mobile+Developer..&hearts;++;Always+Exploring+New+Technologies..,;Computer+Science+Student"></a>
 </p>
 
 <a target="_blank" align="center">
-  <img align="right"top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right"top="500" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 **About Me!**
 
 - 👨🏽‍💻 I’m currently **Mobile Developer** at **Mobile-ID Technologies and Services Joint Stock Company**.
 - 📚 I'm a **Computer Science** student at **Ho Chi Minh City Open University**.
+- 🌱 I'm currently learning ReactJS && ReactNative
 - 💬 Ask me about anything from [nguyenanhhao.forwork@gmail.com](mailto:nguyenanhhao.forwork@gmail.com), I love to answer!
 
-
-
-
-<br><br><br><br><br>
+<br><br>
 ## <div align="center">Social</div>
 <div align="center">
   <a href="https://www.facebook.com/anhhao111203">
