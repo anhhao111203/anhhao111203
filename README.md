@@ -3,7 +3,7 @@
 </p>
 
 <a target="_blank" align="center">
-  <img align="right"top="500" height="250" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right"top="500" height="300" width="300" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG50c2w2b2w2OHdraDF6dHZpbXo1N3NxeHhnemFnZXNmNDYwdHdvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 </a>
 
 **About Me!**
