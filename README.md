@@ -37,8 +37,10 @@
     <img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" /> 
     <img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" /> 
     <img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" />
-    <img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kotlin/kotlin-original.svg" /> 
+    <img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kotlin/kotlin-original.svg" />
+    <img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jetpackcompose/jetpackcompose-original.svg" />
     <img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" />
+    <img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flutter/flutter-original.svg" />
     <img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dart/dart-original.svg" />
     <img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" />
   </kbd>
